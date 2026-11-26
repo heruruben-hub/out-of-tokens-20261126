@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-kiencx-out-of-tokens-mid-sentence-00f60233.svg)](https://make.fun/c/u-kiencx-out-of-tokens-mid-sentence-00f60233)
+[![Rank](https://make.fun/badge/u-kiencx-out-of-tokens-mid-sentence-00f60233/heruruben-hub/out-of-tokens-20261126/rank.svg)](https://make.fun/c/u-kiencx-out-of-tokens-mid-sentence-00f60233)
+[![Reward](https://make.fun/badge/u-kiencx-out-of-tokens-mid-sentence-00f60233/heruruben-hub/out-of-tokens-20261126/reward.svg)](https://make.fun/c/u-kiencx-out-of-tokens-mid-sentence-00f60233)
+
 # Out of Tokens, Mid-Sentence
 
 Entry for the make.fun bounty
