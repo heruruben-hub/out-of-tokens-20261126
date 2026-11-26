@@ -23,7 +23,11 @@ def _write_and_verify(path, text):
         data = f.read()
     assert data == text.encode("utf-8"), "written bytes differ from entry"
     assert not data.endswith(b"\n"), "entry must not end with a newline"
+    assert b"\n" not in data, "entry must be a single line"
     assert 1 <= len(data) <= 140, "entry must be 1-140 bytes"
+    # The line must read as a real error message that turns into the joke:
+    # a flat system notice, then the twist that the ending is lost for good.
+    assert text.startswith("Error: "), "entry must open like an error message"
     return data
 
 
